@@ -19,7 +19,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
 ## Usage
 
 1. `pip install -r requirements.txt`
-2. `python typroa.py --help`
+2. `python typroa.py -h`
 3. read and use.
 4. patch License.js.
 5. replace app.asar.
